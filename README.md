@@ -503,10 +503,6 @@ st.session_state.transactions = []       # All transactions
 - Async operations
 - Load balancing
 
----
-
-
-**Documentation Version**: 1.0
 
 ---
 
